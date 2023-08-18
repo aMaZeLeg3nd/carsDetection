@@ -1,0 +1,314 @@
+Kia_Soul
+FIAT_500
+Chevrolet_Cruze
+BMW_2-Series
+Honda_Fit
+Lincoln_MKT
+Land Rover_Defender
+Lincoln_Nautilus
+Ford_Escape
+Mercedes-Benz_GLE Class
+Chevrolet_Corvette
+MINI_Cooper
+Toyota_Tacoma
+Audi_Q8
+Rolls-Royce_Ghost
+Nissan_Altima
+Audi_A6
+Toyota_Mirai
+Nissan_GT-R
+Ford_Explorer
+Chevrolet_Camaro
+Chevrolet_Equinox
+FIAT_500L
+Toyota_Prius C
+BMW_8-Series
+Porsche_Macan
+Volkswagen_Jetta
+Mercedes-Benz_G Class
+Lamborghini_Urus
+Nissan_Titan
+Volvo_XC90
+Audi_TT
+Subaru_Legacy
+Kia_K900
+Cadillac_Escalade
+Jaguar_E-Pace
+Alfa Romeo_4C
+BMW_i8
+Buick_Enclave
+Mercedes-Benz_A Class
+Cadillac_CT6
+McLaren_570S
+Ford_Edge
+Honda_Civic
+Kia_Rio
+Nissan_Sentra
+Jeep_Compass
+Chevrolet_Volt
+Porsche_Cayenne
+Bentley_Continental GT
+Jaguar_XF
+Subaru_Ascent
+Nissan_Rogue Sport
+Rolls-Royce_Dawn
+Lincoln_Corsair
+Nissan_Frontier
+Chevrolet_Trax
+Land Rover_Range Rover Sport
+GMC_Acadia
+Acura_MDX
+Honda_HR-V
+Maserati_Ghibli
+Lincoln_Continental
+Jeep_Cherokee
+Buick_Cascada
+BMW_X5
+Buick_Envision
+Volkswagen_Arteon
+Mercedes-Benz_AMG GT
+Mercedes-Benz_CLA Class
+Ford_Mustang
+Mercedes-Benz_GLA Class
+INFINITI_Q60
+Lexus_IS
+Lamborghini_Huracan
+Toyota_Highlander
+Nissan_Kicks
+Genesis_G80
+Subaru_WRX
+Kia_Sedona
+BMW_X2
+Honda_Accord
+Mazda_CX-30
+Tesla_Model X
+Mercedes-Benz_SL Class
+MINI_Clubman
+Cadillac_XT6
+BMW_X1
+Cadillac_CT5
+INFINITI_QX30
+FIAT_124 Spider
+Acura_ILX
+Volvo_V90
+Hyundai_Sonata
+Hyundai_Kona Electric
+GMC_Canyon
+Land Rover_Range Rover Evoque
+Volkswagen_Golf
+Cadillac_ATS
+Nissan_Versa
+GMC_Yukon
+Hyundai_Accent
+Maserati_Quattroporte
+Kia_Forte
+Dodge_Journey
+Jaguar_XJ
+Honda_Ridgeline
+Subaru_Crosstrek
+GMC_Terrain
+Honda_Insight
+Kia_Optima
+Jeep_Gladiator
+Volkswagen_Tiguan
+Audi_A7
+Honda_Pilot
+INFINITI_QX50
+Hyundai_Santa Fe
+Lexus_LS
+Nissan_Armada
+Subaru_Outback
+Honda_Odyssey
+Dodge_Charger
+Porsche_Taycan
+Hyundai_Elantra
+Mercedes-Benz_CLS Class
+Lexus_RC
+Mercedes-Benz_SLC Class
+Lamborghini_Aventador
+Mitsubishi_Eclipse Cross
+Chevrolet_Blazer
+Porsche_718
+Land Rover_Range Rover
+Lincoln_MKC
+Toyota_86
+Tesla_Model 3
+Kia_Telluride
+Subaru_Forester
+Mercedes-Benz_S Class
+McLaren_720S
+Volkswagen_Beetle
+BMW_5-Series
+Kia_Sorento
+Lexus_GS
+Hyundai_Venue
+Toyota_Avalon
+Maserati_Levante
+Nissan_Maxima
+Nissan_Rogue
+Dodge_Grand Caravan
+Audi_A4
+Bentley_Bentayga
+Acura_RDX
+Mitsubishi_Outlander
+Aston Martin_DBS
+Honda_Clarity
+Toyota_4Runner
+BMW_3-Series
+Lexus_RX
+Aston Martin_Vantage
+Alfa Romeo_Stelvio
+Chevrolet_Colorado
+Ferrari_488 GTB
+Porsche_911
+BMW_Z4
+Ford_Expedition
+INFINITI_QX60
+Jeep_Renegade
+Mazda_MAZDA3
+Toyota_Prius
+Ford_Taurus
+FIAT_500e
+BMW_X3
+Chevrolet_Traverse
+Chrysler_300
+Jeep_Grand Cherokee
+Chevrolet_Suburban
+BMW_7-Series
+Hyundai_Tucson
+Volvo_S60
+INFINITI_Q70
+BMW_X4
+Honda_CR-V
+Nissan_NV200
+FIAT_500X
+Mercedes-Benz_GLB Class
+Audi_e-tron
+Mazda_MAZDA6
+INFINITI_QX80
+Ford_Ecosport
+INFINITI_Q50
+BMW_X6
+Jaguar_XE
+Genesis_G70
+Ram_1500
+Ford_Flex
+Lexus_NX
+Lincoln_Navigator
+Chrysler_Pacifica
+Audi_A5
+Jaguar_F-Type
+Mazda_CX-9
+Aston Martin_DB11
+Volkswagen_Passat
+BMW_6-Series
+Nissan_Leaf
+Volvo_XC40
+Tesla_Model S
+Ferrari_GTC4Lusso
+Alfa Romeo_Giulia
+Dodge_Challenger
+Volkswagen_e-Golf
+Cadillac_XTS
+Lincoln_MKZ
+Volkswagen_Atlas
+Cadillac_CT4
+BMW_4-Series
+Rolls-Royce_Cullinan
+Land Rover_Range Rover Velar
+Aston Martin_Vanquish
+Chevrolet_Impala
+Lincoln_Aviator
+Hyundai_Veloster
+Porsche_Panamera
+Lexus_LC
+Lexus_ES
+Ram_2500
+Mercedes-Benz_EQC
+Chevrolet_Sonic
+Cadillac_XT4
+Audi_Q5
+Jaguar_F-Pace
+Toyota_Sienna
+Audi_Q3
+Toyota_Tundra
+Mercedes-Benz_GLC Class
+Lexus_UX
+Audi_A8
+GMC_Sierra 1500
+Bentley_Mulsanne
+Chevrolet_Spark
+Buick_Regal
+Chevrolet_TrailBlazer
+Ford_Super Duty F-250
+Hyundai_Palisade
+Audi_Q7
+Chevrolet_Tahoe
+Mercedes-Benz_C Class
+Nissan_370Z
+Kia_Soul EV
+Cadillac_CTS
+Lexus_GX
+Buick_Encore
+Toyota_Supra
+Land Rover_Discovery
+Volvo_V60
+BMW_i3
+Kia_Sportage
+Mitsubishi_Outlander Sport
+Ford_Fiesta
+Nissan_Murano
+Toyota_Land Cruiser
+Toyota_Camry
+Kia_Stinger
+Acura_RLX
+Ford_F-150
+Jeep_Wrangler
+MINI_Cooper Countryman
+Dodge_Durango
+Chevrolet_Silverado 2500HD
+Buick_Lacrosse
+Mazda_CX-5
+Acura_TLX
+Mercedes-Benz_E Class
+Mitsubishi_Mirage
+Toyota_C-HR
+Ford_Fusion
+Hyundai_Ioniq
+Chevrolet_Bolt EV
+Rolls-Royce_Wraith
+Jaguar_I-Pace
+Mazda_MX-5 Miata
+Maserati_GranTurismo
+Volvo_S90
+Kia_Cadenza
+Nissan_Pathfinder
+Mercedes-Benz_Metris
+smart_fortwo
+Toyota_Sequoia
+Alfa Romeo_4C Spider
+Lexus_LX
+Cadillac_XT5
+Volvo_XC60
+Acura_NSX
+Hyundai_Kona
+Mercedes-Benz_GLS Class
+Ford_Ranger
+Subaru_BRZ
+Toyota_RAV4
+Chevrolet_Silverado 1500
+Bentley_Flying Spur
+Audi_R8
+Kia_Niro
+GMC_Sierra 2500HD
+Genesis_G90
+Subaru_Impreza
+Rolls-Royce_Phantom
+BMW_X7
+Audi_A3
+Toyota_Corolla
+Land Rover_Discovery Sport
+Chevrolet_Malibu
+Ford_Transit Connect Wagon
+Mazda_CX-3
+Honda_Passport
